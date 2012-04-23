@@ -1,5 +1,5 @@
-SICP - Clojure
-==============
+SICP Workbook
+=============
 
 This repository contains Clojure code for the
 non-trivial exercises and examples in the computer
