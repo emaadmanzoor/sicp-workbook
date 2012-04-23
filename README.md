@@ -5,7 +5,7 @@ This repository contains Clojure code for the
 non-trivial exercises and examples in the computer
 science classic [Structure and Interpretation of
 Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html),
- *Abelson, Sussman and Sussman, MIT Press (1996)*.
+ Abelson, Sussman and Sussman, MIT Press (1996).
 
 ## Contents
 
